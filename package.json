@@ -33,5 +33,9 @@
     "LICENSE",
     "lib/*",
     "test/*.js"
-  ]
+  ],
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  }
 }
