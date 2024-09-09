@@ -1,13 +1,13 @@
 {
   "name": "process-restarter",
   "description": "NodeJS tool for monitoring of processes",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0",
   "license": "MIT",
   "author": "Peter Simeonov",
   "keywords": [
-    "tuya",
-    "smart home",
-    "home automation"
+    "nodejs",
+    "process",
+    "restart"
   ],
   "homepage": "https://github.com/simeonovp/process-restarter",
   "bugs": {
