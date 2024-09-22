@@ -1,7 +1,7 @@
 {
   "name": "process-restarter",
   "description": "NodeJS tool for monitoring of processes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "author": "Peter Simeonov",
   "keywords": [
